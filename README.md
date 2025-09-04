@@ -17,5 +17,7 @@ Name: *Caleb Kibet*
 
 ![Some image](https://www.stockvault.net/data/2011/02/06/117454/thumb16.jpg)
 
+![My Profile](profile.jpg)
+
 
 
